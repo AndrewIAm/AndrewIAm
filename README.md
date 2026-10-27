@@ -21,5 +21,5 @@ Frontend Developer with a strong foundation in HTML5, CSS3, JavaScript, and Reac
 [LinkedIn](https://www.linkedin.com/in/andriy-yakovenko/) | [Telegram](https://t.me/Andrew_iam) | [Email](mailto:andriiyakovenko.work@gmail.com)
 
 ---
-*(Optional)*
+
 ![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewIAm&show_icons=true&theme=radical)
